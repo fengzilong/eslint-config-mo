@@ -1,2 +1,3 @@
-# eslint-config-mo
-sharable eslint config
+# eslint-config-mo <sup>wip</sup>
+
+> sharable eslint config
