@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-mo",
+  "version": "0.0.0",
+  "description": "sharable eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzilong/eslint-config-mo.git"
+  },
+  "keywords": [
+    "sharable",
+    "eslint",
+    "config"
+  ],
+  "author": "fengzilong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengzilong/eslint-config-mo/issues"
+  },
+  "homepage": "https://github.com/fengzilong/eslint-config-mo#readme"
+}
