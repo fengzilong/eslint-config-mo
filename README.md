@@ -20,3 +20,7 @@ Add `eslintConfig` into your package.json
 	}
 }
 ```
+
+## Others
+
+This is a fork of eslint-config-xo but with some custom rules
