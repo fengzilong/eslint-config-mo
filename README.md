@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-$ npm i -D eslint eslint-plugin-import eslint-config-mo
+$ npm i -D eslint eslint-config-mo
 ```
 
 ## Usage
