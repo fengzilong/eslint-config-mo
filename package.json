@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "sharable eslint config",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,7 @@
     "url": "https://github.com/fengzilong/eslint-config-mo/issues"
   },
   "homepage": "https://github.com/fengzilong/eslint-config-mo#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "eslint": "^3.7.1"
   }
