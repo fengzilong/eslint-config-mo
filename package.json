@@ -1,10 +1,9 @@
 {
   "name": "eslint-config-mo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "sharable eslint config",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fengzilong/eslint-config-mo.git"
