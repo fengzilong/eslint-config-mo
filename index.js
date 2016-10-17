@@ -246,6 +246,7 @@ module.exports = {
 		'array-bracket-spacing': [ 'error', 'always' ],
 		'no-tabs': 'off',
 		'no-plusplus': 'off',
-		"object-curly-spacing": [ "error", "always" ],
+		'object-curly-spacing': [ 'error', 'always' ],
+		'template-curly-spacing': ["error", "always"],
 	} )
 };
