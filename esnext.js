@@ -12,5 +12,5 @@ module.exports = {
 		'prefer-const': [ 'error', {
 			ignoreReadBeforeAssign: true,
 		} ],
-	}
+	},
 };
