@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "sharable eslint config",
   "main": "index.js",
   "scripts": {},
