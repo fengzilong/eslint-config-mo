@@ -248,5 +248,6 @@ module.exports = {
 		'no-plusplus': 'off',
 		'object-curly-spacing': [ 'error', 'always' ],
 		'template-curly-spacing': ["error", "always"],
+		'no-void': 'warn',
 	} ),
 };
