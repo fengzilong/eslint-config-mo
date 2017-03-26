@@ -247,8 +247,9 @@ module.exports = {
 		'no-tabs': 'off',
 		'no-plusplus': 'off',
 		'object-curly-spacing': [ 'error', 'always' ],
-		'template-curly-spacing': ["error", "always"],
+		'template-curly-spacing': [ 'error', 'always' ],
 		'no-void': 'warn',
 		'operator-assignment': ['error', 'never'],
+		'no-implicit-coercion': [ 'error', { 'allow': [ '~' ] } ],
 	} ),
 };
