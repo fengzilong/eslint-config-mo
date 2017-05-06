@@ -251,5 +251,6 @@ module.exports = {
 		'no-void': 'warn',
 		'operator-assignment': ['error', 'never'],
 		'no-implicit-coercion': [ 'error', { 'allow': [ '~' ] } ],
+		'guard-for-in': [ 'warn' ],
 	} ),
 };
