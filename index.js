@@ -236,7 +236,7 @@ module.exports = {
 	}, {
 		'comma-dangle': [ 'error', 'only-multiline' ],
 		'linebreak-style': 'off',
-		'indent': [ 'error', 'tab' ],
+		'indent': [ 'error', 2 ],
 		'max-len': 'warn',
 		'func-names': 'off',
 		'vars-on-top': 'off',
@@ -252,5 +252,6 @@ module.exports = {
 		'operator-assignment': ['error', 'never'],
 		'no-implicit-coercion': [ 'error', { 'allow': [ '~' ] } ],
 		'guard-for-in': [ 'warn' ],
+		'semi': ['error', 'never'],
 	} ),
 };
