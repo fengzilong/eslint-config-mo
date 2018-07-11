@@ -21,6 +21,6 @@
   "homepage": "https://github.com/fengzilong/eslint-config-mo#readme",
   "dependencies": {},
   "peerDependencies": {
-    "eslint": "^3.8.0"
+    "eslint": "*"
   }
 }
