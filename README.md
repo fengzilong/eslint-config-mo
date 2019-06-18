@@ -14,10 +14,10 @@ Add `eslintConfig` into your package.json
 
 ```js
 {
-	"name": "my-awesome-project",
-	"eslintConfig": {
-		"extends": "mo"
-	}
+  "name": "my-awesome-project",
+  "eslintConfig": {
+    "extends": "mo"
+  }
 }
 ```
 
