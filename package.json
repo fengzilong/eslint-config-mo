@@ -3,7 +3,12 @@
   "version": "0.5.2",
   "description": "sharable eslint config",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint *.js -f mo --fix"
+  },
+  "eslintConfig": {
+    "extends": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fengzilong/eslint-config-mo.git"
@@ -22,5 +27,9 @@
   "dependencies": {},
   "peerDependencies": {
     "eslint": "*"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-formatter-mo": "^0.1.4"
   }
 }
